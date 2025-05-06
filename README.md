@@ -39,8 +39,8 @@ Make sure you have Go installed. You can download it from [https://golang.org/dl
 Clone the repository and navigate into it:
 
 ```bash
-git clone https://github.com/yourusername/book-management-api.git
-cd book-management-api
+git clone https://github.com/ankux/books-management-go.git
+cd books-management-go
 ```
 
 Install dependencies:
